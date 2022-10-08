@@ -45,7 +45,9 @@ var tasks = [
   "Walk with your hands not with the legs",
   "Sing a song that starts with the letter 'e'.",
   "Kick a friend",
-  "Call your dad"
+  "Call your dad",
+  "Try Not to Laugh Challenge",
+  "Three-Minute Makeup Challenge"
 ];
 
 function getTask() {
